@@ -5,6 +5,10 @@ prices would increase due to surges and passengers would prefer not to run. If t
 supply, drivers would spend more time idle impacting their revenue. Here, we want to employ
 various operations on the dataset using Spark to answer different queries.
 
+## Purpose:
+implement various solutions based on RDDs and
+DataFrames in PySpark for the given queries related to trip data analysis.
+
 ## Dataset:
 
 The data used here is a simulated dataset, which mainly records trips that happened on the
